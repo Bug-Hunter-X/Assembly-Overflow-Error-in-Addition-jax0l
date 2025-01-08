@@ -1,0 +1,3 @@
+# Assembly Overflow Error in Addition
+
+This repository demonstrates a common error in assembly programming: integer overflow during addition. The code snippet attempts to add the contents of register BX to register AX. If the sum exceeds the maximum value that AX can hold, an overflow occurs, leading to incorrect results or unexpected program behavior.  The solution provides a robust approach to handle potential overflow scenarios. 
